@@ -1,3 +1,37 @@
+.container_12 {
+	background: orange;
+}
+
+/*logo*/
+#logo {
+	background: #0F9;
+}
+
+/*coname*/
+#coname {
+	background: #C0F;
+}
+
+/*nav*/
+#nav {
+	background: #9CF;
+}
+
+/*side*/
+#side {
+	background: #399;
+}
+
+/*side2*/
+#side2 {
+	background: #936;
+}
+
+/*main*/
+#main {
+	background: #FF9;
+}
+
 /* Main Navigation */
 li {
   background: orange;
